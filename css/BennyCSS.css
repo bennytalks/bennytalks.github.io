@@ -29,7 +29,7 @@ body {
 .hero{
 	width: 100%;
 	margin-top: 0px;
-	background: url("../Media/images/teapot.jpg");
+	background: url("file:///C|/Users/benny/OneDrive/Documents/GitHub/Site3/Media/images/teapot.jpg");
 	background-size:100%;
 	
 	margin-bottom: 0px;
@@ -199,7 +199,7 @@ body {
 	align-items: center;
       justify-content: center;
 	position: relative;
-	background-image: url("../functional pottery.jpg");
+	background-image: url("file:///C|/Users/benny/OneDrive/Documents/GitHub/Site3/functional pottery.jpg");
 	background-size: cover;
 	background-blend-mode: soft;
 	border-radius:15px;
