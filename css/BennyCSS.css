@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	font-family: sans-serif;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
 .container {
 	background-color: #FFFFFF;
@@ -232,7 +232,6 @@ border-bottom-right-radius: 15px;
 	padding-left: 0px;
 }
 .right_article ul li {
-	font-family: "Source Sans Pro";
 	list-style: none;
 	text-align: center;
 	background-color: #B3B3B3;
