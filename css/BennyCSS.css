@@ -59,7 +59,7 @@ body {
 
 
 .row.blockDisplay {
-	display: block;
+	display: flex;
 }
 .column_half {
 	width: 50%;
@@ -440,7 +440,7 @@ border-bottom-right-radius: 15px;
 	width: 100%;
 }
 .column_half.right_half {
-	width: 100%;
+	width: 100%;	
 }
 }
 
@@ -484,7 +484,7 @@ border-bottom-right-radius: 15px;
 }
 }
 
-@media (min-width: 1001px) {
+@media (min-width : 983px ){
 }
 .thumbnail {
 	width: 100px;
@@ -517,4 +517,15 @@ border-bottom-right-radius: 15px;
 	cursor: pointer;
 	opacity: 0.5;
 }
+
+.credits{
+	margin-left: 15px;
+	margin-bottom: 10px;
+	text-align: center;
+	bakcground: white;
+	
+}
 #menu {
+
+@media (max-width: 1579px){
+}
